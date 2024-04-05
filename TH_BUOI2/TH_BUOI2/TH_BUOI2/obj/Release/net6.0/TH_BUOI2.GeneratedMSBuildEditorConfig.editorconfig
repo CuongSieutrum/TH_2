@@ -1,0 +1,185 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TH_BUOI2
+build_property.RootNamespace = TH_BUOI2
+build_property.ProjectDir = C:\Users\haitr\OneDrive\Máy tính\Hai Dang\LapTrinhWeb\TH_BUOI2 (2)\TH_BUOI2\TH_BUOI2\TH_BUOI2\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\haitr\OneDrive\Máy tính\Hai Dang\LapTrinhWeb\TH_BUOI2 (2)\TH_BUOI2\TH_BUOI2\TH_BUOI2
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/LapTrinhWeb/TH_BUOI2 (2)/TH_BUOI2/TH_BUOI2/TH_BUOI2/Areas/Admin/Views/Categorys/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlzXEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/LapTrinhWeb/TH_BUOI2 (2)/TH_BUOI2/TH_BUOI2/TH_BUOI2/Areas/Admin/Views/Categorys/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/LapTrinhWeb/TH_BUOI2 (2)/TH_BUOI2/TH_BUOI2/TH_BUOI2/Areas/Admin/Views/Categorys/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/LapTrinhWeb/TH_BUOI2 (2)/TH_BUOI2/TH_BUOI2/TH_BUOI2/Areas/Admin/Views/Categorys/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/LapTrinhWeb/TH_BUOI2 (2)/TH_BUOI2/TH_BUOI2/TH_BUOI2/Areas/Admin/Views/Categorys/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/LapTrinhWeb/TH_BUOI2 (2)/TH_BUOI2/TH_BUOI2/TH_BUOI2/Areas/Admin/Views/Products/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/LapTrinhWeb/TH_BUOI2 (2)/TH_BUOI2/TH_BUOI2/TH_BUOI2/Areas/Admin/Views/Products/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/LapTrinhWeb/TH_BUOI2 (2)/TH_BUOI2/TH_BUOI2/TH_BUOI2/Areas/Admin/Views/Products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/LapTrinhWeb/TH_BUOI2 (2)/TH_BUOI2/TH_BUOI2/TH_BUOI2/Areas/Admin/Views/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/LapTrinhWeb/TH_BUOI2 (2)/TH_BUOI2/TH_BUOI2/TH_BUOI2/Areas/Admin/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/LapTrinhWeb/TH_BUOI2 (2)/TH_BUOI2/TH_BUOI2/TH_BUOI2/Areas/Admin/Views/ThuongHieus/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGh1b25nSGlldXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/LapTrinhWeb/TH_BUOI2 (2)/TH_BUOI2/TH_BUOI2/TH_BUOI2/Areas/Admin/Views/ThuongHieus/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGh1b25nSGlldXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/LapTrinhWeb/TH_BUOI2 (2)/TH_BUOI2/TH_BUOI2/TH_BUOI2/Areas/Admin/Views/ThuongHieus/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGh1b25nSGlldXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/LapTrinhWeb/TH_BUOI2 (2)/TH_BUOI2/TH_BUOI2/TH_BUOI2/Areas/Admin/Views/ThuongHieus/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGh1b25nSGlldXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/LapTrinhWeb/TH_BUOI2 (2)/TH_BUOI2/TH_BUOI2/TH_BUOI2/Areas/Admin/Views/ThuongHieus/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGh1b25nSGlldXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/LapTrinhWeb/TH_BUOI2 (2)/TH_BUOI2/TH_BUOI2/TH_BUOI2/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/LapTrinhWeb/TH_BUOI2 (2)/TH_BUOI2/TH_BUOI2/TH_BUOI2/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/LapTrinhWeb/TH_BUOI2 (2)/TH_BUOI2/TH_BUOI2/TH_BUOI2/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/LapTrinhWeb/TH_BUOI2 (2)/TH_BUOI2/TH_BUOI2/TH_BUOI2/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/LapTrinhWeb/TH_BUOI2 (2)/TH_BUOI2/TH_BUOI2/TH_BUOI2/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/LapTrinhWeb/TH_BUOI2 (2)/TH_BUOI2/TH_BUOI2/TH_BUOI2/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/LapTrinhWeb/TH_BUOI2 (2)/TH_BUOI2/TH_BUOI2/TH_BUOI2/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/LapTrinhWeb/TH_BUOI2 (2)/TH_BUOI2/TH_BUOI2/TH_BUOI2/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/LapTrinhWeb/TH_BUOI2 (2)/TH_BUOI2/TH_BUOI2/TH_BUOI2/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/LapTrinhWeb/TH_BUOI2 (2)/TH_BUOI2/TH_BUOI2/TH_BUOI2/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/LapTrinhWeb/TH_BUOI2 (2)/TH_BUOI2/TH_BUOI2/TH_BUOI2/Views/Home/AboutUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dFVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/LapTrinhWeb/TH_BUOI2 (2)/TH_BUOI2/TH_BUOI2/TH_BUOI2/Views/Home/ContactUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0VXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/LapTrinhWeb/TH_BUOI2 (2)/TH_BUOI2/TH_BUOI2/TH_BUOI2/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/LapTrinhWeb/TH_BUOI2 (2)/TH_BUOI2/TH_BUOI2/TH_BUOI2/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/LapTrinhWeb/TH_BUOI2 (2)/TH_BUOI2/TH_BUOI2/TH_BUOI2/Views/Product/Cameras.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDYW1lcmFzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/LapTrinhWeb/TH_BUOI2 (2)/TH_BUOI2/TH_BUOI2/TH_BUOI2/Views/Product/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/LapTrinhWeb/TH_BUOI2 (2)/TH_BUOI2/TH_BUOI2/TH_BUOI2/Views/Product/HotDeals.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxIb3REZWFscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/LapTrinhWeb/TH_BUOI2 (2)/TH_BUOI2/TH_BUOI2/TH_BUOI2/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/LapTrinhWeb/TH_BUOI2 (2)/TH_BUOI2/TH_BUOI2/TH_BUOI2/Views/Product/Laptops.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxMYXB0b3BzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/LapTrinhWeb/TH_BUOI2 (2)/TH_BUOI2/TH_BUOI2/TH_BUOI2/Views/Product/Smartphones.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxTbWFydHBob25lcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/LapTrinhWeb/TH_BUOI2 (2)/TH_BUOI2/TH_BUOI2/TH_BUOI2/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/LapTrinhWeb/TH_BUOI2 (2)/TH_BUOI2/TH_BUOI2/TH_BUOI2/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/LapTrinhWeb/TH_BUOI2 (2)/TH_BUOI2/TH_BUOI2/TH_BUOI2/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/LapTrinhWeb/TH_BUOI2 (2)/TH_BUOI2/TH_BUOI2/TH_BUOI2/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/LapTrinhWeb/TH_BUOI2 (2)/TH_BUOI2/TH_BUOI2/TH_BUOI2/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/LapTrinhWeb/TH_BUOI2 (2)/TH_BUOI2/TH_BUOI2/TH_BUOI2/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-5bn0remz7d
+
+[C:/Users/haitr/OneDrive/Máy tính/Hai Dang/LapTrinhWeb/TH_BUOI2 (2)/TH_BUOI2/TH_BUOI2/TH_BUOI2/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ril7fgbxqs

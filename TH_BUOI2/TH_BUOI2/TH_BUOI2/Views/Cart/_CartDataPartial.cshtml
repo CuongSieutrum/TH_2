@@ -1,0 +1,59 @@
+﻿@model List<CartItem>
+
+<!-- Cart item template -->
+@{
+    var grandTotal = Model.Sum(item => item.SoLuong * item.Price);
+}
+<style>
+    h2 {
+        color: #333;
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 20px;
+    }
+
+    th, td {
+        border: 1px solid #ddd;
+        padding: 12px;
+        text-align: left;
+    }
+
+    th {
+        background-color: #f2f2f2;
+    }
+
+    td a {
+        color: #dc3545;
+        text-decoration: none;
+    }
+
+        td a:hover {
+            text-decoration: underline;
+        }
+</style>
+
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Quantity</th>
+        <th>Price</th>
+        <th>Total</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.SoLuong</td>
+            <td>@item.Price</td>
+            <td>@item.TongTien</td>         
+        </tr>
+    }
+    <tr>
+        <td colspan="2"></td>
+        <td><strong>Grand Total:</strong></td>
+        <td><strong>@grandTotal</strong></td>
+    </tr>
+</table>

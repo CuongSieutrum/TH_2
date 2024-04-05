@@ -1,0 +1,64 @@
+﻿@{
+    decimal grandTotal = 0;
+}
+
+<style>
+    h2 {
+        color: #333;
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 20px;
+    }
+
+    th, td {
+        border: 1px solid #ddd;
+        padding: 12px;
+        text-align: left;
+    }
+
+    th {
+        background-color: #f2f2f2;
+    }
+
+    td a {
+        color: #dc3545;
+        text-decoration: none;
+    }
+
+        td a:hover {
+            text-decoration: underline;
+        }
+</style>
+
+<h2>Your Cart</h2>
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Quantity</th>
+        <th>Price</th>
+        <th>Total</th>
+        <th>Action</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.SoLuong</td>
+            <td>@item.Price</td>
+            <td>@item.TongTien</td>
+            <td>
+                <a asp-action="RemoveFromCart" asp-route-productId="@item.Id">Remove</a>
+            </td>
+        </tr>
+        grandTotal += item.TongTien;
+    }
+    <tr>
+        <td colspan="3"></td>
+        <td><strong>Grand Total:</strong></td>
+        <td><strong>@grandTotal</strong></td>
+    </tr>
+</table>
+

@@ -1,0 +1,113 @@
+﻿@model IEnumerable<TH_BUOI2.Models.Product>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Add">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SoLuong)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Sale_price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HeDieuHanh)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CPU)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RAM)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OCung)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CardDoHoa)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ImageUrl)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ngay_nhap)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Mo_ta)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Category)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ThuongHieu)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SoLuong)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Sale_price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HeDieuHanh)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CPU)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RAM)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OCung)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CardDoHoa)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ImageUrl)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ngay_nhap)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Mo_ta)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CategoryId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ThuongHieuId)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
